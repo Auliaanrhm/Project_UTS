@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Base URL : http://localhost:8003
+## 🌐 Base URL : http://localhost:8082
 
 ## API Endpoints
 
